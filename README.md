@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Sanskar Bhadani 👋
 
-<!--
-**sanskar260807/sanskar260807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+💻 Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* C++
+* HTML, CSS, JavaScript
+* Basic Node.js & MongoDB
+
+🚀 Projects:
+
+* 🚌 Campus Bus Tracking System
+* 🎨 Live Collaborative Whiteboard
+* 💻 LaptopHub
+
+🌱 Currently Learning:
+
+* Advanced JavaScript
+* Backend Development
+
+📫 Connect with me:
+
+* LinkedIn: (add your link here)
+
+⚡ Goal:
+To become a skilled software developer and crack top tech companies.
